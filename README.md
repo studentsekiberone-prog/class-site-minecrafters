@@ -1,1 +1,1 @@
-# class-site-minecrafters
+class-site
